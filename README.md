@@ -1,6 +1,6 @@
 # Welcome to my Simon Says App!
 
-Active Link: https://music-app-jet-two.vercel.app/
+Active Link: https://simon-says-steel.vercel.app/
 
 ## Demo
 ![Live Preview](SimonSays.gif)
